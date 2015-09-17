@@ -2,7 +2,7 @@
 baseurl = "http://jrclarkin.com/"
 languageCode = "en-us"
 title = "Jonathan Clarkin"
-theme = "hugo-artists-theme"
+theme = "hugo-custom-theme"
 
 [params]
 
@@ -13,19 +13,6 @@ theme = "hugo-artists-theme"
     # information about you and your website.
 	name = "Jonathan Clarkin"
 	description = "Software Craftsman, building and discovering tools and techniques to help teams, and teaching others of his findings."
-
-	# Since this template is static, the contact form uses www.formspree.io as a
-	# proxy. The form makes a POST request to their servers to send the actual
-	# email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-	email = ""
 
 
 	# Header an navigation
@@ -74,36 +61,36 @@ theme = "hugo-artists-theme"
 		title = "Work"
 
 		[[params.work.projects]]
-			name = "TYPO International Design Talks"
-			folder = "proj-1"
+			name = "Nivaha Restore"
+			folder = "nivaha-restore"
 
 		[[params.work.projects]]
-			name = "City-IN website concept"
-			folder = "proj-2"
+			name = "CAST Conference"
+			folder = "cast-2015"
 
 		[[params.work.projects]]
-			name = "Crispy Icons"
-			folder = "proj-3"
+			name = "KWSQA Workshop"
+			folder = "kwsqa-2015"
 
 		[[params.work.projects]]
-			name = "Flat Mobile UI/UX Concept"
-			folder = "proj-4"
+			name = "Mxi API & DSL"
+			folder = "mxi-api"
 
 		[[params.work.projects]]
-			name = "Fresh It Up"
-			folder = "proj-5"
+			name = "Mxi Mobile Prototype"
+			folder = "mxi-mobile"
 
 		[[params.work.projects]]
-			name = "Timeline Page"
-			folder = "proj-6"
+			name = "Mxi Hackathons"
+			folder = "mxi-hackathons"
 
 		[[params.work.projects]]
-			name = "Weather Dashboard"
-			folder = "proj-7"
+			name = "Mxi Core Automation"
+			folder = "mxi-automation"
 
 		[[params.work.projects]]
-			name = "Stripes & Co"
-			folder = "proj-8"
+			name = "Mxi Team Leadership"
+			folder = "mxi-team-lead"
 
 
 	# Clients section
@@ -111,33 +98,18 @@ theme = "hugo-artists-theme"
 		title = "Peers"
 
 		[[params.clients.list]]
-			avatar = "face-aaroni.jpg"
-			name   = "Scott Summers"
-			title  = "Director of Design, OnToText Ind."
-			quote  = "**While we all felt that Travis was a great** asset to our team — and really worked hard to understand our products from the point of view of the customer — we also all agree he should shower more often."
-			logo   = "logo1.png"
+			avatar = "face-mhynie.jpg"
+			name   = "Martin Hynie"
+			title  = "Spiritual Warrior of Testing, Mxi Technologies"
+			quote  = "**Jonathan helped us implement creative** and maintainable automation frameworks in support of our team missions. More importantly, Jonathan proved to be an incredible facilitator of continuous learning and sharing."
+			logo   = "logo-mxi.png"
 
 		[[params.clients.list]]
-			avatar = "face-atariboy.jpg"
-			name   = "Hank McCoy"
-			title  = "Eater of Salad, Antartica Int."
-			quote  = "**Working with Travis was the highlight of my career.** Other moments of note were collecting the largest number of paperclips in the office, and winning a trophy for saying \"uh huh, and then what?\" 30 times in a row to my girlfriend without her noticing."
-			logo   = "logo2.png"
-
-		[[params.clients.list]]
-			avatar = "face-jackiesaik.jpg"
-			name   = "Stacy Lang"
-			title  = "Social Media Girl, Quebec Int."
-			quote  = "**Yea, I guess hes good at computers or something,** but let me ask you this: If a cat always lands on its feet, and buttered bread always lands butter side down, what would happen if you tied buttered bread on top of a cat?"
-			logo   = "logo3.png"
-
-		[[params.clients.list]]
-			avatar = "face-teleject.jpg"
-			name   = "Cleatus Cassidy"
-			title  = "VP of Helmut, Lorem Sorem LLC."
-			quote  = "**Back in old country** only nerds who is playing on computers. Now all bros is wanting to make codes and junk. I lost foot in war. You dont see girls asking me about homework."
-			logo   = "logo4.png"
-
+			avatar = "face-rhalliday.jpg"
+			name   = "Russ Halliday"
+			title  = "CEO & Co-Founder, Nivaha"
+			quote  = ""
+			logo   = "logo-nivaha.png"
 
 	# Contact secion
 	[params.contact]
@@ -158,13 +130,10 @@ theme = "hugo-artists-theme"
 			icon = "github"
 			link = "//www.github.com/jclarkin"
 
-	[params.form]
-		title = "Let's work together"
-		# Form fields
-		name = "Your Name"
-		email = "Your Email"
-		message = "Tell me about your project"
-		buttonText = "Send"
+	# Blog secion
+	[params.blog]
+		title = "Blog"
+		total = 1
 
 	[params.footer]
-		copyright = "Published under the Unlicense License."
+		# copyright = "Published under the Unlicense License."

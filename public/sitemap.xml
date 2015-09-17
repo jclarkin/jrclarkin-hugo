@@ -13,8 +13,35 @@
   </url>
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
-    <lastmod>2015-08-24T22:16:19-04:00</lastmod>
+    <loc>http://localhost:1313/work/kwsqa-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/mxi-automation/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/mxi-api/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/cast-2015/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/mxi-hackathons/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/mxi-mobile/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/mxi-team-lead/</loc>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/work/nivaha-restore/</loc>
   </url>
   
 </urlset>
