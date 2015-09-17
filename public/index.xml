@@ -21,6 +21,22 @@
     
     <item>
       <title></title>
+      <link>http://localhost:1313/work/cast-2015/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/work/cast-2015/</guid>
+      <description>&lt;!-- ![City In](img/work/proj-2/CityIn-AntonSkvortsov.jpg) --&gt;
+
+&lt;p&gt;What is CAST&lt;/p&gt;
+
+&lt;p&gt;What I did&lt;/p&gt;
+
+&lt;p&gt;Slides&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/work/kwsqa-2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -62,22 +78,6 @@ Stock Lows and Re-Purchasing&lt;/p&gt;
 
 &lt;p&gt;Mxi API and DSL
 &amp;hellip; Got no pictures&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/work/cast-2015/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/work/cast-2015/</guid>
-      <description>&lt;!-- ![City In](img/work/proj-2/CityIn-AntonSkvortsov.jpg) --&gt;
-
-&lt;p&gt;What is CAST&lt;/p&gt;
-
-&lt;p&gt;What I did&lt;/p&gt;
-
-&lt;p&gt;Slides&lt;/p&gt;
 </description>
     </item>
     
