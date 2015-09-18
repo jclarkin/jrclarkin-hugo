@@ -1,0 +1,96 @@
+#-------------------------------
+# General Site Settings
+
+title: Jonathan Clarkin
+description: BUILD // LEARN // SHARE
+email: j.r.clarkin@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Clients, url: '#clients'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: 'Jonathan Clarkin, a software craftsman.'
+  rel-author: 'https://www.linkedin.com/in/jonathanclarkin'
+  rel-publisher: 'https://www.linkedin.com/in/jonathanclarkin'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **Jonathan specializes in learning and building** for software teams.
+  He is a full stack developer with a passion for agile teams that are looking
+  to empower customers and users.
+
+
+skills:
+- {name: Learning, value: '10'}
+- {name: Teaching, value: '8'}
+- {name: Communication, value: '7'}
+- {name: Visual Design, value: '5'}
+- {name: UX Design, value: '6'}
+- {name: Programming, value: '7'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: Nivaha Restore, folder: 'nivaha-restore', file: 'work/nivaha-restore.html'}
+- {name: CAST Conference, folder: 'cast-2015', file: 'work/cast-2015.html'}
+- {name: KWSQA Workshop, folder: 'kwsqa-2015', file: 'work/kwsqa-2015.html'}
+- {name: Mxi API & DSL, folder: 'mxi-api', file: 'work/mxi-api.html'}
+- {name: Mxi Mobile Prototype, folder: 'mxi-mobile', file: 'work/mxi-mobile.html'}
+- {name: Mxi Hackathons, folder: 'mxi-hackathons', file: 'work/mxi-hackathons.html'}
+- {name: Mxi Core Automation, folder: 'mxi-automation', file: 'work/mxi-automation.html'}
+- {name: Mxi Team Leadership, folder: 'mxi-team-lead', file: 'work/mxi-team-lead.html'}
+
+
+#-------------------------------
+# Clients Section
+
+clients:
+- {avatar: 'face-mhynie.jpg',
+  name: 'Martin Hynie',
+  title: 'Spiritual Warrior of Testing, Mxi Technologies',
+  quote: '<p><strong>Jonathan helped us implement creative</strong> and maintainable automation frameworks in support of our team missions. More importantly, Jonathan proved to be an incredible facilitator of continuous learning and sharing.</p>',
+  logo: 'logo-mxi.png'}
+- {avatar: 'face-rhalliday.jpg',
+  name: 'Russ Halliday',
+  title: 'CEO & Co-Founder, Nivaha',
+  quote: '<p></p>',
+  logo: 'logo-nivaha.png'}
+
+
+#-------------------------------
+# Contact Section
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/_jrwc'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/jonathanclarkin'}
+- {icon: 'github', link: 'https://github.com/jclarkin'}
+# - {icon: 'behance', link: 'https://www.behance.net/travisneilson'}
+# - {icon: 'youtube', link: 'https://www.youtube.com/DevTipsForDesigners'}
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

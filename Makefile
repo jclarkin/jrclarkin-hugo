@@ -2,7 +2,7 @@ default:
 	@echo "Please see the Makefile for a list of commands"
 
 development:
-	hugo server  --watch --buildDrafts
+	jekyll serve --watch
 
 reload-production:
 	ssh docker-host
@@ -13,5 +13,6 @@ reload-production:
 publish:
 	# From: http://nathangrigg.net/2012/04/rsyncing-jekyll/ this suggestion.
 	rsync -v --compress --recursive --checksum --delete \
-    --exclude=.DS_Store \
-    public/ root@docker-host:/usr/www/jrclarkin.com
+    --exclude '.DS_Store' \
+		--exclude 'temp' \
+    _site/ root@docker-host:/usr/www/jrclarkin.com
