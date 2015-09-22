@@ -10,7 +10,7 @@ email: j.r.clarkin@gmail.com
 menu:
 - {name: About Me, url: '#about-me'}
 - {name: Work, url: '#work'}
-- {name: Clients, url: '#clients'}
+- {name: References, url: '#clients'}
 - {name: Contact, url: '#contact'}
 
 #-------------------------------
@@ -78,7 +78,7 @@ clients:
 - {avatar: 'face-rhalliday.jpg',
   name: 'Russ Halliday',
   title: 'CEO & Co-Founder, Nivaha',
-  quote: '<p></p>',
+  quote: '<p><strong>Jonathan brings with him a passion and energy</strong> for building up teams and has a rare combination of technical acumen and people skills. If you are looking to build great products with talented, optimistic, and energetic people, I cannot recommend Jonathan highly enough!</p>',
   logo: 'logo-nivaha.png'}
 
 
