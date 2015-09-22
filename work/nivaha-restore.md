@@ -12,8 +12,8 @@ title: Nivaha Restore
 
 <p>Links of interest
 <ul>
-  <li><a href="https://nivaharestore.com">Nivaha Restore</a></li>
-  <li><a href="http://nivaha.co">Nivaha Company</a></li>
-  <li><a href="https://www.youtube.com/watch?v=BXaijRShR28">Video Tour</a></li>
+  <li><a target="_blank" href="https://nivaharestore.com">Nivaha Restore</a></li>
+  <li><a target="_blank" href="http://nivaha.co">Nivaha Company</a></li>
+  <li><a target="_blank" href="https://www.youtube.com/watch?v=BXaijRShR28">Video Tour</a></li>
 </ul>
 </p>

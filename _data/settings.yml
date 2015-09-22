@@ -59,11 +59,11 @@ projects:
 - {name: Nivaha Restore, folder: 'nivaha-restore'}
 - {name: CAST Conference, folder: 'cast-2014'}
 - {name: KWSQA Workshop, folder: 'kwsqa-2014'}
-- {name: Mxi API & DSL, folder: 'mxi-api'}
-- {name: Mxi Mobile Prototype, folder: 'mxi-mobile'}
-- {name: Mxi Hackathons, folder: 'mxi-hackathons'}
-- {name: Mxi Core Automation, folder: 'mxi-automation'}
-- {name: Mxi Team Leadership, folder: 'mxi-team-lead'}
+# - {name: Mxi API & DSL, folder: 'mxi-api'}
+# - {name: Mxi Mobile Prototype, folder: 'mxi-mobile'}
+# - {name: Mxi Hackathons, folder: 'mxi-hackathons'}
+# - {name: Mxi Core Automation, folder: 'mxi-automation'}
+# - {name: Mxi Team Leadership, folder: 'mxi-team-lead'}
 
 
 #-------------------------------
